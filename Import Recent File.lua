@@ -15,5 +15,3 @@ local function get_last_file_name(directory)
  else
     reaper.ShowConsoleMsg("Directory is empty")
  end
- 
- 
